@@ -1,3 +1,4 @@
+/*
 terraform {
   required_providers {
     azurerm = {
@@ -130,4 +131,4 @@ resource "azurerm_storage_account" "rg" {
   account_tier             = "Standard"
   account_replication_type = "GRS"
   access_tier = "Cool"
-}
+}*/
